@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 30">
+<line x1="15" y1="15" x2="985" y2="15" stroke="#7fdfff" stroke-opacity="0.35" stroke-width="2"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;920 0;0 0" dur="13s" repeatCount="indefinite"/>
+<g>
+<ellipse cx="32" cy="15" rx="7" ry="4" fill="#1a1d29" stroke="#7fdfff" stroke-width="1" transform="rotate(-30 38 15)"><animate attributeName="rx" values="7;2;7" dur="0.5s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="44" cy="15" rx="7" ry="4" fill="#1a1d29" stroke="#7fdfff" stroke-width="1" transform="rotate(30 38 15)"><animate attributeName="rx" values="7;2;7" dur="0.5s" repeatCount="indefinite"/></ellipse>
+<rect x="37" y="9" width="2" height="12" rx="1" fill="#e6f4ff"/>
+</g></g>
+</svg>

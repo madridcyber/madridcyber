@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260">
+<!-- easter egg: 'Fang Yuan did nothing wrong' -->
+<defs>
+<radialGradient id="aura"><stop offset="0" stop-color="#ffd76a" stop-opacity="0.5"/><stop offset="1" stop-color="#ffd76a" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="420" height="260" fill="#0a0602" rx="12"/>
+<circle cx="210" cy="160" r="96" fill="url(#aura)"><animate attributeName="r" values="90;104;90" dur="3.5s" repeatCount="indefinite"/></circle>
+<!-- orbiting gu worms -->
+<g>
+<g><animateTransform attributeName="transform" type="rotate" from="0 210 160" to="360 210 160" dur="7s" repeatCount="indefinite"/>
+<g transform="translate(210,60)"><path d="M-8,0 q8,-7 16,0 q-8,7 -16,0" fill="#c0392b"/><circle cx="6" cy="0" r="2" fill="#ffd76a"/></g></g>
+<g><animateTransform attributeName="transform" type="rotate" from="120 210 160" to="480 210 160" dur="9s" repeatCount="indefinite"/>
+<g transform="translate(210,66)"><path d="M-7,0 q7,-6 14,0 q-7,6 -14,0" fill="#8e44ad"/><circle cx="5" cy="0" r="2" fill="#ffd76a"/></g></g>
+<g><animateTransform attributeName="transform" type="rotate" from="240 210 160" to="600 210 160" dur="11s" repeatCount="indefinite"/>
+<g transform="translate(210,72)"><path d="M-7,0 q7,-6 14,0 q-7,6 -14,0" fill="#27ae60"/><circle cx="5" cy="0" r="2" fill="#ffd76a"/></g></g>
+</g>
+<!-- body -->
+<ellipse cx="210" cy="205" rx="48" ry="34" fill="#1c1206"/>
+<circle cx="210" cy="160" r="34" fill="#241706"/>
+<polygon points="185,137 177,108 202,131" fill="#241706"/>
+<polygon points="235,137 243,108 218,131" fill="#241706"/>
+<polygon points="187,135 182,116 199,131" fill="#a9791f"/>
+<polygon points="233,135 238,116 221,131" fill="#a9791f"/>
+<!-- golden eyes -->
+<ellipse cx="199" cy="160" rx="6" ry="8" fill="#ffd76a"><animate attributeName="fill" values="#ffd76a;#fff3c4;#ffd76a" dur="2.5s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="221" cy="160" rx="6" ry="8" fill="#ffd76a"><animate attributeName="fill" values="#ffd76a;#fff3c4;#ffd76a" dur="2.5s" repeatCount="indefinite"/></ellipse>
+<g fill="#0a0602"><ellipse cx="199" cy="160" rx="1.6" ry="5"/><ellipse cx="221" cy="160" rx="1.6" ry="5"/></g>
+<circle cx="210" cy="171" r="2.5" fill="#e08a8a"/>
+<!-- tail -->
+<path d="M256,209 q44,-4 36,-42" stroke="#241706" stroke-width="11" fill="none" stroke-linecap="round"><animate attributeName="d" values="M256,209 q44,-4 36,-42;M256,209 q50,10 58,-16;M256,209 q44,-4 36,-42" dur="2.1s" repeatCount="indefinite"/></path>
+</svg>
