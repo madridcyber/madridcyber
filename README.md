@@ -56,7 +56,7 @@
 | Scroll | Discipline | What lies within |
 |---|---|---|
 | [🐾 **packet-paws**](https://github.com/madridcyber/packet-paws) | 🥷 Ninja Tools | small security scripts with sharpened claws — recon, crypto & header-audit primitives, built for labs |
-| [🩸 **ctf-grimoire**](https://github.com/madridcyber/ctf-grimoire) | 🏴‍☠️ Forbidden Techniques | CTF writeups & battle records — every flag captured, refined like a Gu |
+| [🪸 **ctf-grimoire**](https://github.com/madridcyber/ctf-grimoire) | 🏴‍☠️ Forbidden Techniques | CTF writeups & battle records — every flag captured, refined like a Gu |
 
 </div>
 
@@ -66,12 +66,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=madridcyber&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madridcyber&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=madridcyber&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=madridcyber&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=8" alt="Trophies" />
 
 </div>
 
