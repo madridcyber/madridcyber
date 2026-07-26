@@ -1,5 +1,5 @@
 <!-- four forms sleep in /variants. wake one. -->
-<!-- gur fanxr ngr zl pbzzvgf -->
+<!-- rot13, because we keep things friendly: gur png vf gur erny nqzva -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/madridcyber/madridcyber/main/assets/hacker/banner.svg" alt="banner" width="100%" />
@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=madridcyber&label=visitors&color=00ff41&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/badge/Focus-Cybersecurity-00ff41?style=flat-square&logo=hackaday&logoColor=black" alt="Focus" />
-<img src="https://img.shields.io/badge/Chronotype-Night%20Owl%20%F0%9F%8C%99-1a1b27?style=flat-square" alt="Night owl" />
+<img src="https://img.shields.io/badge/Chronotype-Night%20Owl%20%F0%9F%8C%99-0d1117?style=flat-square" alt="Night owl" />
 <img src="https://img.shields.io/badge/Sidekick-Cat%20%F0%9F%90%BE-00ff41?style=flat-square" alt="Cat" />
 
 <img src="https://raw.githubusercontent.com/madridcyber/madridcyber/main/assets/hacker/divider.svg" alt="" width="100%" />
@@ -54,12 +54,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=madridcyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madridcyber&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=madridcyber&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madridcyber&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=madridcyber&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=madridcyber&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=madridcyber&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=madridcyber&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=8" alt="Trophies" />
 
 </div>
 
@@ -107,8 +107,6 @@
 <div align="center"><img src="https://raw.githubusercontent.com/madridcyber/madridcyber/main/assets/hacker/divider.svg" alt="" width="100%" /></div>
 
 ## 🐱 The Two-Tailed Companion
-
-<!-- 01110010 01101111 01101111 01110100 00100000 01101001 01110011 00100000 01100001 00100000 01100011 01100001 01110100 -->
 
 <div align="center">
 
