@@ -11,4 +11,8 @@
 
 **Palette** · blood red `#c0392b` + dark gold `#ffd76a` on abyss
 
-**Vibe** · Reverend Insanity energy — an}
+**Vibe** · Reverend Insanity energy — ancient rune rings, three gu worms in refinement orbit
+
+*Five hundred years of patience, one purr at a time.*
+
+</div>
