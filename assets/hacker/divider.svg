@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 30">
+<line x1="15" y1="15" x2="985" y2="15" stroke="#00ff41" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="6 8"/>
+<circle cy="15" r="4" fill="#00ff41"><animate attributeName="cx" values="15;985;15" dur="8s" repeatCount="indefinite"/></circle>
+<circle cy="15" r="2" fill="#00ff41" opacity="0.6"><animate attributeName="cx" values="985;15;985" dur="11s" repeatCount="indefinite"/></circle>
+</svg>

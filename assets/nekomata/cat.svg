@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260">
+<!-- easter egg: rot13 -> 'gur gjva gnvyf frr nyy' -->
+<defs>
+<radialGradient id="moon"><stop offset="0" stop-color="#fff0f6"/><stop offset="1" stop-color="#b98bd6"/></radialGradient>
+<radialGradient id="eye"><stop offset="0" stop-color="#ff5a5a"/><stop offset="1" stop-color="#990000"/></radialGradient>
+</defs>
+<rect width="420" height="260" fill="#0b0710" rx="12"/>
+<circle cx="340" cy="70" r="40" fill="url(#moon)" opacity="0.9"/>
+<circle cx="340" cy="70" r="58" fill="#ffd9ec" opacity="0.12"><animate attributeName="r" values="58;66;58" dur="4s" repeatCount="indefinite"/></circle>
+<!-- body -->
+<ellipse cx="200" cy="205" rx="50" ry="36" fill="#241033"/>
+<circle cx="200" cy="158" r="36" fill="#2d123f"/>
+<polygon points="174,134 166,104 192,128" fill="#2d123f"/>
+<polygon points="226,134 234,104 208,128" fill="#2d123f"/>
+<polygon points="176,132 171,112 188,128" fill="#7b3fa0"/>
+<polygon points="224,132 229,112 212,128" fill="#7b3fa0"/>
+<!-- sharingan eyes -->
+<g>
+<circle cx="188" cy="158" r="9" fill="url(#eye)"/>
+<circle cx="212" cy="158" r="9" fill="url(#eye)"/>
+<g fill="#120008"><circle cx="188" cy="158" r="2.5"/><circle cx="212" cy="158" r="2.5"/></g>
+<g stroke="#120008" stroke-width="1.4" fill="none">
+<g><animateTransform attributeName="transform" type="rotate" from="0 188 158" to="360 188 158" dur="6s" repeatCount="indefinite"/><path d="M188,152 a6,6 0 0,1 0,12"/><path d="M183,161 a6,6 0 0,1 10,-6"/><path d="M193,161 a6,6 0 0,1 -10,-6"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0 212 158" to="360 212 158" dur="6s" repeatCount="indefinite"/><path d="M212,152 a6,6 0 0,1 0,12"/><path d="M207,161 a6,6 0 0,1 10,-6"/><path d="M217,161 a6,6 0 0,1 -10,-6"/></g>
+</g>
+</g>
+<circle cx="200" cy="170" r="2.5" fill="#ff9ecf"/>
+<!-- two swishing tails -->
+<path d="M248,210 q46,-4 40,-46" stroke="#2d123f" stroke-width="12" fill="none" stroke-linecap="round"><animate attributeName="d" values="M248,210 q46,-4 40,-46;M248,210 q52,10 62,-20;M248,210 q46,-4 40,-46" dur="2s" repeatCount="indefinite"/></path>
+<path d="M152,210 q-46,-4 -40,-46" stroke="#3a1852" stroke-width="11" fill="none" stroke-linecap="round"><animate attributeName="d" values="M152,210 q-46,-4 -40,-46;M152,210 q-52,10 -62,-20;M152,210 q-46,-4 -40,-46" dur="2.4s" repeatCount="indefinite"/></path>
+
+</svg>
