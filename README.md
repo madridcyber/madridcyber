@@ -1,4 +1,3 @@
-<!-- four forms sleep in /variants. wake one. -->
 <!-- rot13, because we keep things friendly: gur png vf gur erny nqzva -->
 <div align="center">
 
@@ -130,8 +129,6 @@
 *my code reviewer. approves nothing. sits on everything.*
 
 *hand-drawn & animated in raw SVG — no generators, no templates.*
-
-**This cat has four forms** → [see all forms](./variants)
 
 🐾 *Fun fact: a cat sleeps 16 hours a day — exactly the schedule of a night-owl developer, just shifted by 12 hours. We coexist in perfect asymmetry.*
 
