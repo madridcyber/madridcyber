@@ -50,6 +50,19 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/madridcyber/madridcyber/main/assets/hacker/divider.svg" alt="" width="100%" /></div>
 
+## 🏯 Secret Scrolls — Featured Repositories
+
+<div align="center">
+
+| Scroll | Discipline | What lies within |
+|---|---|---|
+| [🐾 **packet-paws**](https://github.com/madridcyber/packet-paws) | 🥷 Ninja Tools | small security scripts with sharpened claws — recon, crypto & header-audit primitives, built for labs |
+| [🩸 **ctf-grimoire**](https://github.com/madridcyber/ctf-grimoire) | 🏴‍☠️ Forbidden Techniques | CTF writeups & battle records — every flag captured, refined like a Gu |
+
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/madridcyber/madridcyber/main/assets/hacker/divider.svg" alt="" width="100%" /></div>
+
 ## 📊 Battle Records
 
 <div align="center">
