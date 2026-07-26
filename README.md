@@ -1,89 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:1a1b27,100:00ff41&text=madridcyber&fontColor=e6edf3&fontSize=55&animation=fadeIn&desc=root%20access%20to%20curiosity%20%F0%9F%90%88%E2%80%8D%E2%AC%9B&descSize=18&descAlignY=75&section=header" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:1a1b27,100:00ff41&text=madridcyber&fontColor=e6edf3&fontSize=55&animation=fadeIn&desc=defying%20fate%2C%20one%20commit%20at%20a%20time%20%F0%9F%A9%B8&descSize=18&descAlignY=75&section=header" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=root%40madridcyber%3A~%24+whoami;Computer+Engineering+Student;Future+Cybersecurity+Specialist+%F0%9F%94%90;Pentesting+%7C+Networks+%7C+Forensics;Powered+by+coffee+and+cats+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" />
+<br>
+
+### *「So what if the Heavens stand against me? I have never entrusted my future to fate.」*
+
+**— walking the path of Fang Yuan 🤍**
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=madridcyber&label=visitors&color=00ff41&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/badge/Focus-Cybersecurity-00ff41?style=flat-square&logo=hackaday&logoColor=black" alt="Focus" />
-<img src="https://img.shields.io/badge/OS-Linux-00ff41?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Chronotype-Night%20Owl%20%F0%9F%8C%99-1a1b27?style=flat-square" alt="Night owl" />
 <img src="https://img.shields.io/badge/Sidekick-Cat%20%F0%9F%90%BE-00ff41?style=flat-square" alt="Cat" />
 
 </div>
 
 <br>
 
-```bash
-madridcyber@github:~$ cat about.txt
-```
+## 🥷 Shinobi Registration — About Me
 
-```yaml
-name:        madridcyber
-role:        Computer Engineering Student
-mission:     Break it. Understand it. Secure it.
-focus:
-  - Penetration Testing / Ethical Hacking
-  - Network Security
-  - Digital Forensics & Incident Response
-languages:   [Java, Python, C, Bash]
-os:          Linux 🐧
-sidekick:    A cat walking across my keyboard
-status:      Learning something new every day
-```
+- 🎓 **Computer Engineering student** on a training arc toward **cybersecurity**
+- 🔎 Current nature affinities: **penetration testing**, **network security**, **digital forensics & IR**
+- 🌙 **Night owl** — my best commits happen after midnight, when the village sleeps
+- ☕ Chakra source: coffee. Willpower source: Fang Yuan's five hundred years of patience
+- 🐈‍⬛ Trained under a cat — discipline is non-negotiable
 
 <br>
 
-```bash
-madridcyber@github:~$ nmap -sV localhost --script discover-human
-```
-
-```text
-Starting Nmap 7.95 ( https://nmap.org )
-Nmap scan report for madridcyber (127.0.0.1)
-Host is up (0.0042s latency).
-
-PORT      STATE  SERVICE          VERSION
-22/tcp    open   curiosity        always-learning 1.0
-80/tcp    open   java-projects    smart 2.4
-443/tcp   open   python-scripts   os-labs 3.1
-1337/tcp  open   pentest-lab      wargames 0.9 (beta)
-4444/tcp  open   listener         waiting for knowledge shells
-9000/tcp  open   cat-daemon       purr 16.0 (uptime: sleeping)
-
-Service detection performed. Human appears friendly. 🐾
-```
-
-<br>
-
-```bash
-madridcyber@github:~$ ls ./currently_learning/
-```
-
-> 🔍 **Linux internals & hardening** — getting comfortable living in the terminal
->
-> 🌐 **Networking deep-dive** — TCP/IP, DNS, packet analysis with Wireshark
->
-> 🛠️ **Security tooling** — Nmap, Burp Suite, Metasploit basics
->
-> 🏴‍☠️ **Hands-on practice** — CTF-style wargames & vulnerable-by-design labs
-
-<br>
-
-```bash
-madridcyber@github:~$ ls ./arsenal/
-```
+## ⚔️ Zanpakutō & Jutsu — The Arsenal
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,bash,linux,git,github,mysql,wireshark,vscode,idea&perline=6" alt="Tech stack" />
 
+*Shikai released. Bankai still in training.*
+
 </div>
 
 <br>
 
-```bash
-madridcyber@github:~$ ./show_stats.sh --theme tokyonight
-```
+## 🧪 Gu Refinement in Progress — Currently Learning
+
+| Gu Being Refined | Essence |
+|---|---|
+| 🐧 **Linux Internals Gu** | living in the terminal, system hardening |
+| 🌐 **Packet Sight Gu** | TCP/IP, DNS, traffic analysis with Wireshark |
+| 🛠️ **Tool Mastery Gu** | Nmap, Burp Suite, Metasploit fundamentals |
+| 🏴‍☠️ **Battle Experience Gu** | CTF wargames & vulnerable-by-design labs |
+
+<br>
+
+## 📊 Battle Records
 
 <div align="center">
 
@@ -98,9 +67,7 @@ madridcyber@github:~$ ./show_stats.sh --theme tokyonight
 
 <br>
 
-```bash
-madridcyber@github:~$ ./release_the_snake.sh
-```
+## 🐍 Summoning Jutsu: Contribution Snake
 
 <div align="center">
 
@@ -110,66 +77,56 @@ madridcyber@github:~$ ./release_the_snake.sh
   <img alt="contribution snake" src="https://raw.githubusercontent.com/madridcyber/madridcyber/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-*The snake eats my commits so the cat doesn't have to. 🐍*
+*Manda devours my commits so the cat doesn't have to.*
 
 </div>
 
 <br>
 
-```bash
-madridcyber@github:~$ cat ./projects.log
-```
+## 🗺️ Cultivation Path — From Mortal to Immortal
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [smart](https://github.com/madridcyber/smart) | Java project in active development | ☕ Java |
-| [os-lab-4-demo](https://github.com/madridcyber/os-lab-4-demo) | OS lab work — processes & scheduling | 🐍 Python |
-| [blank-project](https://github.com/madridcyber/blank-project) | Java sandbox for experiments | ☕ Java |
-
-<br>
-
-```bash
-madridcyber@github:~$ cat ./roadmap.txt
-```
-
-- [x] Start Computer Engineering degree
-- [x] First repos on GitHub
-- [ ] 🎓 Study **cybersecurity** at the graduate level
-- [ ] 🛡️ Security certifications — eJPT → OSCP, one step at a time
-- [ ] 🏴‍☠️ Compete in **CTFs** and climb the leaderboards
-- [ ] 🔐 Work in offensive security / DFIR & contribute to open-source security tools
+| Rank | Milestone | Status |
+|---|---|---|
+| **Rank 1 · Initiate** | Begin Computer Engineering degree | ✅ Attained |
+| **Rank 2 · Apprentice** | First projects on GitHub | ✅ Attained |
+| **Rank 3 · Adept** | Security foundations — Linux, networking, labs | 🔥 Cultivating now |
+| **Rank 4 · Master** | First certification (eJPT) & CTF competitions | ⏳ Next tribulation |
+| **Rank 5 · Grandmaster** | Graduate studies in cybersecurity + OSCP | ⏳ On the horizon |
+| **Immortal Ascension** | Offensive security / DFIR career, open-source contributions | 🎯 The eternal pursuit |
 
 <br>
 
-```bash
-madridcyber@github:~$ sudo systemctl status cat.service
-```
+## 📺 The Shelf — Anime & Manhwa
+
+| Title | Realm | Status | Verdict |
+|---|---|---|---|
+| **Reverend Insanity** | Web novel / manhua | Re-reading 🔁 | Fang Yuan did nothing wrong. Peak fiction, taken from us too soon |
+| **Naruto** | Anime / manga | Completed ✅ | The original training-arc blueprint. Still immune to talk-no-jutsu though |
+| **Bleach** | Anime / manga | TYBW hype ⚡ | Unmatched drip. My README theme is basically a Zanpakutō release |
+
+> 🤍 *Currently accepting recommendations — if it has schemers, power systems, or morally grey protagonists, I'm in.*
+
+<br>
+
+## 🐱 The Two-Tailed Companion
 
 <div align="center">
 
-```text
-● cat.service - Feline Support Unit
-     Loaded: loaded (/etc/systemd/system/cat.service; enabled)
-     Active: active (purring) since boot; 16h sleep scheduled
+<img src="https://img.shields.io/badge/cat.exe-purring%20on%20port%2022-00ff41?style=for-the-badge&logo=github&logoColor=black" alt="cat status" />
 
-      |\      _,,,---,,_
-ZZZzz /,`.-'`'    -.  ;-;;,_
-     |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_)
+　　　　　ﾋ　　　　　　_
+　　　 /｀ﾐｰｰｰミ､ﾉ
+　　 /　　　　 |
+　　/　 ღ　ღ |　　 *my code reviewer.*
+　 乀　 ▽　 ノ　　 *approves nothing. sits on everything.*
 
-Jul 26 22:00:00 madridcyber cat[1337]: keyboard occupied. deploying to prod.
-Jul 26 22:00:01 madridcyber cat[1337]: [OK] purring on port 22 🐾
-```
-
-🐱 *Fun fact: a cat sleeps ~16 hours a day. The other 8 are spent sitting on keyboards, deploying untested code to production.*
+🐾 *Fun fact: a cat sleeps 16 hours a day — exactly the schedule of a night-owl developer, just shifted by 12 hours. We coexist in perfect asymmetry.*
 
 </div>
 
 <br>
 
-```bash
-madridcyber@github:~$ ./contact.sh
-```
+## 🦋 Send a Hell Butterfly — Contact
 
 <div align="center">
 
@@ -178,7 +135,7 @@ madridcyber@github:~$ ./contact.sh
 
 <br>
 
-*"The quieter you become, the more you are able to hear."* — Kali Linux motto
+*「In this world, the truth is written by those who refine themselves relentlessly.」*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff41,100:0d1117&section=footer" alt="footer" />
 
