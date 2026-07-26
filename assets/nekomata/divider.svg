@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 30">
-<line x1="15" y1="15" x2="985" y2="15" stroke="#b98bd6" stroke-opacity="0.4" stroke-width="2"/>
-<g><animateTransform attributeName="transform" type="translate" values="0 0;940 0;0 0" dur="10s" repeatCount="indefinite"/>
-<g transform="translate(30,15)"><animateTransform attributeName="transform" type="rotate" from="0 30 15" to="360 30 15" dur="3s" repeatCount="indefinite" additive="sum"/>
-<circle cx="30" cy="9" r="3" fill="#ff5a5a"/><circle cx="25" cy="19" r="3" fill="#ff5a5a"/><circle cx="35" cy="19" r="3" fill="#ff5a5a"/></g></g>
-</svg>
