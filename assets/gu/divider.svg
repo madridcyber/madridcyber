@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 30">
-<line x1="15" y1="15" x2="985" y2="15" stroke="#a9791f" stroke-opacity="0.5" stroke-width="2" stroke-dasharray="10 8"><animate attributeName="stroke-dashoffset" from="0" to="-180" dur="4s" repeatCount="indefinite"/></line>
-<g><animateTransform attributeName="transform" type="translate" values="0 0;930 0;0 0" dur="12s" repeatCount="indefinite"/>
-<path d="M28,15 q8,-7 16,0 q-8,7 -16,0" fill="#c0392b"><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="0.8s" repeatCount="indefinite"/></path>
-<circle cx="42" cy="15" r="2" fill="#ffd76a"/></g>
-</svg>
