@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=root%40madridcyber%3A~%24+whoami;Computer+Engineering+Student;Future+Cybersecurity+Specialist+%F0%9F%94%90;Pentesting+%7C+Networks+%7C+Forensics;Powered+by+coffee+and+cats+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:1a1b27,100:00ff41&text=madridcyber&fontColor=e6edf3&fontSize=55&animation=fadeIn&desc=root%20access%20to%20curiosity%20%F0%9F%90%88%E2%80%8D%E2%AC%9B&descSize=18&descAlignY=75&section=header" alt="banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=root%40madridcyber%3A~%24+whoami;Computer+Engineering+Student;Future+Cybersecurity+Specialist+%F0%9F%94%90;Pentesting+%7C+Networks+%7C+Forensics;Powered+by+coffee+and+cats+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=madridcyber&label=visitors&color=00ff41&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-00ff41?style=flat-square&logo=hackaday&logoColor=black" alt="Focus" />
+<img src="https://img.shields.io/badge/OS-Linux-00ff41?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Sidekick-Cat%20%F0%9F%90%BE-00ff41?style=flat-square" alt="Cat" />
 
 </div>
 
@@ -24,6 +29,28 @@ languages:   [Java, Python, C, Bash]
 os:          Linux 🐧
 sidekick:    A cat walking across my keyboard
 status:      Learning something new every day
+```
+
+<br>
+
+```bash
+madridcyber@github:~$ nmap -sV localhost --script discover-human
+```
+
+```text
+Starting Nmap 7.95 ( https://nmap.org )
+Nmap scan report for madridcyber (127.0.0.1)
+Host is up (0.0042s latency).
+
+PORT      STATE  SERVICE          VERSION
+22/tcp    open   curiosity        always-learning 1.0
+80/tcp    open   java-projects    smart 2.4
+443/tcp   open   python-scripts   os-labs 3.1
+1337/tcp  open   pentest-lab      wargames 0.9 (beta)
+4444/tcp  open   listener         waiting for knowledge shells
+9000/tcp  open   cat-daemon       purr 16.0 (uptime: sleeping)
+
+Service detection performed. Human appears friendly. 🐾
 ```
 
 <br>
@@ -65,7 +92,25 @@ madridcyber@github:~$ ./show_stats.sh --theme tokyonight
 
 <img src="https://streak-stats.demolab.com?user=madridcyber&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madridcyber&theme=tokyo-night&hide_border=true)](https://github.com/madridcyber)
+<img src="https://github-profile-trophy.vercel.app/?username=madridcyber&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" alt="Trophies" />
+
+</div>
+
+<br>
+
+```bash
+madridcyber@github:~$ ./release_the_snake.sh
+```
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madridcyber/madridcyber/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madridcyber/madridcyber/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/madridcyber/madridcyber/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+*The snake eats my commits so the cat doesn't have to. 🐍*
 
 </div>
 
@@ -84,29 +129,36 @@ madridcyber@github:~$ cat ./projects.log
 <br>
 
 ```bash
-madridcyber@github:~$ cat ./future_goals.txt
+madridcyber@github:~$ cat ./roadmap.txt
 ```
 
-- 🎓 Study **cybersecurity** at the graduate level
-- 🛡️ Earn security certifications (eJPT → OSCP, one step at a time)
-- 🏴‍☠️ Compete in **CTFs** and climb the leaderboards
-- 🔐 Work in offensive security / DFIR and contribute to open-source security tools
+- [x] Start Computer Engineering degree
+- [x] First repos on GitHub
+- [ ] 🎓 Study **cybersecurity** at the graduate level
+- [ ] 🛡️ Security certifications — eJPT → OSCP, one step at a time
+- [ ] 🏴‍☠️ Compete in **CTFs** and climb the leaderboards
+- [ ] 🔐 Work in offensive security / DFIR & contribute to open-source security tools
 
 <br>
 
 ```bash
-madridcyber@github:~$ sudo ./summon_cat.sh
+madridcyber@github:~$ sudo systemctl status cat.service
 ```
 
 <div align="center">
 
 ```text
+● cat.service - Feline Support Unit
+     Loaded: loaded (/etc/systemd/system/cat.service; enabled)
+     Active: active (purring) since boot; 16h sleep scheduled
+
       |\      _,,,---,,_
 ZZZzz /,`.-'`'    -.  ;-;;,_
      |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_)   
+    '---''(_/--'  `-'\_)
 
-[OK] cat.service started successfully — purring on port 22 🐾
+Jul 26 22:00:00 madridcyber cat[1337]: keyboard occupied. deploying to prod.
+Jul 26 22:00:01 madridcyber cat[1337]: [OK] purring on port 22 🐾
 ```
 
 🐱 *Fun fact: a cat sleeps ~16 hours a day. The other 8 are spent sitting on keyboards, deploying untested code to production.*
@@ -128,6 +180,6 @@ madridcyber@github:~$ ./contact.sh
 
 *"The quieter you become, the more you are able to hear."* — Kali Linux motto
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=450&lines=connection+closed+by+remote+host.+%F0%9F%90%88%E2%80%8D%E2%AC%9B" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff41,100:0d1117&section=footer" alt="footer" />
 
 </div>
